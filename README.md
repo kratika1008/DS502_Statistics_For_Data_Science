@@ -22,4 +22,4 @@
 	* Support Vector Machines
 
 ## Final Project (Python3):
-	* Customer Churn Prediction (check Customer_Churn_Prediction/ for more details)
+* Customer Churn Prediction (check Customer_Churn_Prediction/ for more details)
